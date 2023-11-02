@@ -1,0 +1,24 @@
+{
+  "name": "graph-tests-with-visx",
+  "description": "",
+  "main": "index.tsx",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.8.4",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@visx/responsive": "latest",
+    "@visx/network": "latest",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-scripts-ts": "^2.13.0",
+    "typescript": "^3"
+  },
+  "keywords": [],
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
